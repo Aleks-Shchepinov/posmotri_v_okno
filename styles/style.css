@@ -301,7 +301,7 @@ ol {
   align-items: stretch;
 }
 
-.content__video-card-description-container:active {
+.content__card-link:active {
   background: #545050;
 }
 
